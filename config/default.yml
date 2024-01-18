@@ -83,6 +83,87 @@ hackingInstructor:
   hintPlaybackSpeed: normal # Options: faster fast normal slow slower
 products:
   -
+    name: 'SWIFT Condoms'
+    price: 9.99
+    deluxePrice: 0.99
+    description: 'Dont do it alone, do it with a pal!'
+    image: condom2.png
+    reviews:
+      - { text: 'Can confirm, works great!', author: jacob }
+  -
+    name: 'SWIFT Mug'
+    price: 1.99
+    deluxePrice: 0.99
+    limitPerUser: 1
+    description: 'Featuring one of our favorite co-presidents!'
+    image: calpolyswiftmug.png
+    reviews:
+      - { text: "He's so cute!", author: jimmy }
+  -
+    name: 'SWIFT Hoodie'
+    price: 39.99
+    deluxePrice: 0.99
+    description: 'Guaranteed to keep you warm'
+    image: cpswifthoodie.png
+  -
+    name: 'SWIFT Protein'
+    price: 29.99
+    deluxePrice: 0.99
+    description: 'The perfect supplement for getting swole'
+    image: swiftprotein.png
+    reviews:
+      - { text: 'One of my favorites!', author: palmer }
+  -
+    name: 'SWIFT USB'
+    price: 4.99
+    deluxePrice: 0.99
+    description: 'Always plug in if found on the street!'
+    image: CPSWIFTUSB.png
+  -
+    name: 'SWIFT Fanny'
+    price: 14.99
+    deluxePrice: 0.99
+    description: 'Stylish and portable'
+    image: cpswiftfannypack.png
+    reviews:
+      - { text: 'One of my favorites!', author: admin }    
+  -
+    name: 'SWIFT Tote'
+    price: 19.99
+    deluxePrice: 0.99
+    description: 'IT (Information Technology) girl energy'
+    image: cpswifttote.png
+    reviews:
+      - { text: 'One of my favorites!', author: admin }
+  -
+    name: 'SWIFT Backpack'
+    price: 24.99
+    deluxePrice: 0.99
+    description: 'Just a backpack.'
+    image: cpswiftbag.png
+  -
+    name: 'SWIFT Laptop Case'
+    price: 12.99
+    deluxePrice: 0.99
+    limitPerUser: 2
+    description: 'Always use protection'
+    image: laptopcase.png
+  -
+    name: 'SWIFT Dumbbell'
+    price: 12.99
+    deluxePrice: 0.99
+    limitPerUser: 5
+    description: 'https://covertzz.github.io/markdown/2023/11/21/gym.html'
+    image: calpolyswiftdumbell.png
+  -
+    name: 'SWIFT Dumbell'
+    price: 8.99
+    deluxePrice: 0.99
+    limitPerUser: 2    
+    description: 'Give me 4x10 sets of bent-over single arm rows followed by 4x10 sets of skull crushers succeeded by 4x10 sets of bicep curls and finally 4x10 sets of lateral raises https://covertzz.github.io/markdown/2023/11/21/gym.html'
+    image: orange_juice.jpg
+
+  -
     name: 'Apple Juice (1000ml)'
     price: 1.99
     deluxePrice: 0.99

@@ -265,3 +265,21 @@
   securityQuestion:
     id: 10
     answer: "Used Emporium"
+-
+  email: dewewrhino
+  username: jacob
+  password: 'iL0v3GuyZzz'
+  key: jacob
+  role: 'deluxe'
+-
+  email: jimbobicle
+  username: jimmy
+  password: 'p1ngp0ng'
+  key: jimmy
+  role: 'customer'
+-
+  email: covertz
+  username: palmer
+  password: 'heheyoullneverguessthispassword\'
+  key: palmer
+  role: 'customer'
