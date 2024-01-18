@@ -3,10 +3,10 @@ server:
   basePath: ''
 application:
   domain: juice-sh.op
-  name: 'OWASP Juice Shop'
-  logo: JuiceShop_Logo.png
-  favicon: favicon_js.ico
-  theme: bluegrey-lightgreen # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
+  name: 'SWIFT Shop'
+  logo: swiftlogo.png
+  favicon: swiftlogo.png
+  theme: black-orange # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
   showVersionNumber: true
   showGitHubLinks: true
   localBackupEnabled: true
