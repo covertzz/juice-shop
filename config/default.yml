@@ -6,7 +6,7 @@ application:
   name: 'SWIFT Shop'
   logo: swiftlogo.png
   favicon: swiftlogo.png
-  theme: black-orange # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
+  theme: deeporange-indigo # Options: bluegrey-lightgreen blue-lightblue deeppurple-amber indigo-pink pink-bluegrey purple-green deeporange-indigo
   showVersionNumber: true
   showGitHubLinks: true
   localBackupEnabled: true
