@@ -83,14 +83,6 @@ hackingInstructor:
   hintPlaybackSpeed: normal # Options: faster fast normal slow slower
 products:
   -
-    name: 'SWIFT Condoms'
-    price: 9.99
-    deluxePrice: 0.99
-    description: 'Dont do it alone, do it with a pal!'
-    image: condom2.png
-    reviews:
-      - { text: 'Can confirm, works great!', author: jacob }
-  -
     name: 'SWIFT Mug'
     price: 1.99
     deluxePrice: 0.99
